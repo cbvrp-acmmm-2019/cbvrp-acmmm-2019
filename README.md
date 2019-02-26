@@ -1,5 +1,5 @@
 # Content-based Video Relevance Prediction Challenge
-### @ICME 2019, Shanghai, China
+### @ACM Multimedia 2019, Nice, France
 ![](hulu_logo.png)
 
 **(This challenge is fully sponsored by Hulu.)**
@@ -46,26 +46,23 @@ AUC (Area Under Curve) will be used as evaluation metric. An example of evaluati
 
 ## Registration
 
-The registration will be open on Dec 15, 2018.
+The registration will be open on Mar. 15, 2019.
 
 ## Submission
 
 After the test data is released, participants can submit the results **twice a week**. 
 
-The participants should send the results to cbvrp-icme-2019@hulu.com. After receiving the submission, we will evaluate the results and send the feedback to the participants by email.
+The participants should send the results to cbvrp-acmmm-2019@hulu.com. After receiving the submission, we will evaluate the results and send the feedback to the participants by email.
 
 ## Schedule
 
 |        Date       |                  Event               |
 | ----------------- |:------------------------------------:|
-|   Dec 15, 2018    | Registration open                    |
-|   Jan 1, 2019     | Release train and validation data    | 
-|   Feb 18, 2019    | Release test data                    |
-|   Mar 15, 2019    | Deadline for result submission       |
-|   Apr 1, 2019     | Notification of winners              |
-|   Apr 8, 2019     | Deadline for paper submission        |
-|   Apr 22, 2019    | Notification of paper acceptance     |
-|   Apr 29, 2019    | Deadline for camera-ready papers     |
+|   Mar. 15, 2019   | Registration open                    |
+|   Apr. 1, 2019    | Release train and validation data    | 
+|   Jun. 1, 2019    | Release test data                    |
+|   Jul. 1, 2019    | Deadline for final result submission |
+|   Jul. 8, 2019    | Deadline for paper submission        |
 
 ## Prizes
 
@@ -78,10 +75,10 @@ The winners of the challenge are required to provide a technique report describi
 Peng Wang (peng.wang@hulu.com) Hulu LLC.\
 Yan Bai (ryann.bai@hulu.com) Hulu LLC.\
 Chunxu Xu (chunxu.xu@hulu.com) Hulu LLC.\
-Saboya Yang (saboya.yang@hulu.com) Hulu LLC.\
+Yunsheng Jiang (yunsheng.jiang@hulu.com) Hulu LLC.\
 Wei Feng (wei.feng@hulu.com) Hulu LLC.\
 Xiaohui Xie (xiaohui.xie@hulu.com) Hulu LLC.
 
 ## Contact
 
-If you have any question, please send email to cbvrp-icme-2019@hulu.com.
+If you have any question, please send email to cbvrp-acmmm-2019@hulu.com.
