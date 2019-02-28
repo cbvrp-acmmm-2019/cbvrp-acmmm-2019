@@ -6,21 +6,23 @@
 
 ## Motivation
 
-Video relevance computation is one of the most important tasks for personalized online streaming service. Given the relevance of videos and viewer feedbacks, the system can provide personalized recommendations, which will help the viewer discover more content of interest. In most online service, the computation of video relevance table is based on the viewers' implicit feedback, e.g. watch and search history. The system analyzes the viewer-to-video preference and computes the video-to-video relevance scores using collaborative filtering based methods. However, this kind of method performs poorly for “cold-start” problem - when a new video is added to the library, the recommendation system needs to bootstrap the video relevance score with very little historical viewer feedbacks. One promising approach to solve the “cold-start” problem of new item is analyzing video content itself to predict the relevance score, i.e. predicting the video-to-video relevance by analyzing the keyframes, audio, subtitles and metadata. With the relevance score, we can provide better recommendations for our viewers. 
+Video relevance computation is one of the most important tasks for personalized online streaming service. Given the relevance of videos and viewer feedbacks, the system can provide personalized recommendations, which will help the viewer discover more content of interest. In most online service, the computation of video relevance table is based on the viewers' implicit feedback, e.g. watch and search history. The system analyzes the viewer-to-video preference and computes the video-to-video relevance scores using collaborative filtering based methods. However, this kind of method performs poorly for “cold-start” problem - when a new video is added to the library, the recommendation system needs to bootstrap the video relevance score with very little historical viewer feedbacks. One promising approach to solve the “cold-start” problem of new item is analyzing video content itself to predict the relevance score, i.e. predicting the video-to-video relevance by analyzing the metadata of video such as keyframes, audio, subtitles. With the relevance score, we can provide better recommendations for our viewers. 
 
 ## Background
 
-We have held CBVRP challenge during the last two years (ICIP2017 and ACM Multimedia 2018). More than 160 participants registered, and 10 teams submitted the result and 5 paper submission in the CBVRP challenge 2018, (https://github.com/cbvrp-acmmm-2018/cbvrp-acmmm-2018). A big advancement on this task has been made by the winner teams.
+Hulu LLC. have held CBVRP challenge during the last two years (ICIP 2017 and ACM Multimedia 2018). More than 160 participants registered, 10 teams submitted the result and 5 paper were recieved in the CBVRP challenge 2018, (https://github.com/cbvrp-acmmm-2018/cbvrp-acmmm-2018). A big advancement on this task has been made by the winner teams.
+
+In order to support sustained and substantial progress in the state of the art on video recommendation, CBVRP challenge is continuously held in ACM Multimedia 2019 with the release of more diverse and more abundant data.  
 
 ## Task and Data
 
-The main task of this challenge is to solve the “cold-start” problem of new item. According to the viewer behavior history and the video content, the participants need to predict the viewer click-through behavior on new TV series or new movies. The viewer feedbacks have been cleaned to avoid any privacy issues. Instead of delivering original video content, audio and visual features are extracted from the video and delivered as the representation of the video content. Specifically, there are two separated tracks for TV series and movies respectively.
+The main task of this challenge is to solve the “cold-start” problem of new item. According to the viewer behavior history and the video content, participants need to predict the viewer click-through behavior on new TV series or new movies. The viewer feedbacks have been cleaned to avoid any privacy issues. Instead of delivering original video content, audio and visual features are extracted from the video and are delivered as the representation of the video content. Specifically, there are two separate tracks for TV series and movies respectively.
 
-For each track, the data is composed of two parts. One part is viewer records, i.e. a data sample is a viewer record. For example, a record “*Movie<sub>1</sub> , Movie<sub>2</sub> , ... , Movie<sub>N</sub>  ->  Movie<sub>N+1</sub>*” means a viewer has watched *N* movies in a time sequence and then we recommend *Movie<sub>N+1</sub>* to the viewer. If the viewer clicked *Movie<sub>N+1</sub>*, we consider this record as a positive sample, otherwise it is a negative sample. The other part is visual and audio features extracted from the TV series/movie trailers. The visual feature includes both frame-level feature and clip-level feature. All the features are extracted using pre-trained CNN models. For each track, there are respectively a training set, a validation set and a test set. In the test set, we will give a bunch of viewer records. The participants need to calculate a probability score indicating how much probably the viewer will click the TV series/movie we recommend. The training set and validation set will be released to participants after registration. The details of the dataset are given as follows.
+For each track, the data is composed of two parts. One part is viewer records, i.e. a data sample is a viewer record. For example, a record “*Movie<sub>1</sub> , Movie<sub>2</sub> , ... , Movie<sub>N</sub>  ->  Movie<sub>N+1</sub>*” means a viewer has watched *N* movies in a time sequence and then we recommend *Movie<sub>N+1</sub>* to the viewer. If the viewer clicked *Movie<sub>N+1</sub>*, we consider this record as a positive sample, otherwise it is a negative sample. The other part is visual and audio features extracted from the TV series/movie trailers. The visual feature includes both frame-level feature and clip-level feature. All the features are extracted using pre-trained CNN models. For each track, there are respectively a training set, a validation set and a test set. In the test set, we will give a bunch of viewer records. Participants need to calculate a probability score indicating how much probably the viewer will click the TV series/movie we recommend. The training set and validation set will be released to participants after registration. The details of the dataset are given as follows.
 
 #### Track 1: TV series
 
-Pre-extracted features derived from nearly 3,570 TV-series video trailers. The whole set is divided into 3 subsets: training set, validation set, and testing set.
+Pre-extracted features are derived from nearly 3,570 TV-series video trailers. The whole set is divided into 3 subsets: training set, validation set, and testing set.
 
 |           |  TV series |   Records   |
 | --------- |:---------: |:-----------:|
@@ -31,7 +33,7 @@ Pre-extracted features derived from nearly 3,570 TV-series video trailers. The w
 
 #### Track 2: Movies
 
-Pre-extracted features derived from over 9,574 movie video trailers. The whole set is divided into 3 subsets: training set, validation set, and testing set.
+Pre-extracted features are derived from over 9,574 movie video trailers. The whole set is divided into 3 subsets: training set, validation set, and testing set.
 
 |           |   Movie   |   Records   |
 | --------- |:---------:|:-----------:|
@@ -56,19 +58,17 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 
 ## Schedule
 
-|        Date       |                  Event               |
-| ----------------- |:------------------------------------:|
-|   Mar. 15, 2019   | Registration open                    |
-|   Apr. 1, 2019    | Release train and validation data    | 
-|   Jun. 1, 2019    | Release test data                    |
-|   Jul. 1, 2019    | Deadline for final result submission |
-|   Jul. 8, 2019    | Deadline for paper submission        |
+|        Date       |                  Event                  |
+| ----------------- |:---------------------------------------:|
+|   Mar. 15, 2019   | Registration open                       |
+|   Apr. 1, 2019    | Release training and validation data    | 
+|   Jun. 1, 2019    | Release test data                       |
+|   Jul. 1, 2019    | Deadline for final result submission    |
+|   Jul. 8, 2019    | Deadline for paper submission           |
 
 ## Prizes
 
 The total reward is $2,000 USD for each track including the taxable amount, which will be fully sponsored by Hulu LLC. The number of winners will depend on the number of participants and the quality of the results. The organizers reserve the complete right in the final judgement and decision.
-
-The winners of the challenge are required to provide a technique report describing the details of the winning algorithms, and to give a presentation during the conference.
 
 ## Organizers
 
@@ -81,4 +81,4 @@ Xiaohui Xie (xiaohui.xie@hulu.com) Hulu LLC.
 
 ## Contact
 
-If you have any question, please send email to cbvrp-acmmm-2019@hulu.com.
+If you have any question, please send an email to cbvrp-acmmm-2019@hulu.com.
