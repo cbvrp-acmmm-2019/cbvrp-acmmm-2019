@@ -48,7 +48,7 @@ AUC (Area Under Curve) will be used as evaluation metric. An example of evaluati
 
 ## Registration
 
-The registration will be open on Mar. 15, 2019.
+To register for the challenge and get access to the dataset, please complete the [Online Agreement Form](https://freeonlinesurveys.com/s/DjOillyA). We will send you the download instructions by email after the challenge data available date (Apr. 1, 2018).
 
 ## Submission
 
