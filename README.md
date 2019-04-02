@@ -26,9 +26,9 @@ Pre-extracted features are derived from nearly 3,570 TV-series video trailers. T
 
 |           |  TV series |   Records   |
 | --------- |:---------: |:-----------:|
-|   Train   |   2,839    |  5,221,221  |
-|   Val     |    357     |   931,820   |
-|   Test    |    374     |   794,120   |
+|   Train   |   2,652    |  5,221,221  |
+|   Val     |    347     |   931,820   |
+|   Test    |    571     |   794,120   |
 
 
 #### Track 2: Movies
@@ -37,9 +37,9 @@ Pre-extracted features are derived from over 9,574 movie video trailers. The who
 
 |           |   Movie   |   Records   |
 | --------- |:---------:|:-----------:|
-|   Train   |   7,303   |  1,123,786  |
-|   Val     |   1,254   |   552,577   |
-|   Test    |   1,017   |   822,343   |
+|   Train   |   6,173   |  1,123,786  |
+|   Val     |   1,273   |   552,577   |
+|   Test    |   2,128   |   822,343   |
 
 
 ## Evaluation
