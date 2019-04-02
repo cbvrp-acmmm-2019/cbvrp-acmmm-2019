@@ -66,6 +66,8 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 |   Jul. 1, 2019    | Deadline for final result submission    |
 |   Jul. 8, 2019    | Deadline for paper submission           |
 
+The registration is open until Jul. 1, 2019 (the deadline for final result submission).
+
 ## Prizes
 
 The total reward is $2,000 USD for each track including the taxable amount, which will be fully sponsored by Hulu LLC. The number of winners will depend on the number of participants and the quality of the results. The organizers reserve the complete right in the final judgement and decision.
