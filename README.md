@@ -44,7 +44,7 @@ Pre-extracted features are derived from over 9,574 movie video trailers. The who
 
 ## Evaluation
 
-AUC (Area Under Curve) will be used as evaluation metric. An example of evaluation will be given.
+AUC (Area Under Curve) will be used as evaluation metric.
 
 ## Registration
 
@@ -52,7 +52,17 @@ To register for the challenge and get access to the dataset, please complete the
 
 ## Submission
 
-After the test data is released, participants can submit the results **twice a week**. 
+After the test data is released, participants can submit the results **twice a week**. Each time the participants need to submit two `csv` files:
+
+- "series_test_prediction.csv", which should have 794,120 lines. Each line is the probability score for the record in the corresponding line of "series_test.csv". 
+
+- "movie_test_prediction.csv", which should have 822,343 lines. Each line is the probability score for the record in the corresponding line of "movie_test.csv".
+
+Example of series_test_prediction.csv / movie_test_prediction.csv: 
+  > 0.123456  
+  > 0.234567  
+  > 0.876543  
+  > ...
 
 The participants should send the results to cbvrp-acmmm-2019@hulu.com. After receiving the submission, we will evaluate the results and send the feedback to the participants by email.
 
