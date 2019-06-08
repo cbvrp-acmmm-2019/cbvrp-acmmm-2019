@@ -66,6 +66,20 @@ Example of series_test_prediction.csv / movie_test_prediction.csv:
 
 The participants should send the results to cbvrp-acmmm-2019@hulu.com. After receiving the submission, we will evaluate the results and send the feedback to the participants by email.
 
+## Leaderboard
+
+#### Track 1: TV Series
+
+| Team      | AUC       |
+| --------- |:---------:|
+| GrandRookie | 0.555588 |
+
+#### Track 2: Movies
+
+| Team      | AUC       |
+| --------- |:---------:|
+| GrandRookie | 0.591156| 
+
 ## Schedule
 
 |        Date       |                  Event                  |
