@@ -72,13 +72,13 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 
 | Team      | AUC       |
 | --------- |:---------:|
-| GrandRookie | 0.555588 |
+| GrandRookie | 0.574381 |
 
 #### Track 2: Movies
 
 | Team      | AUC       |
 | --------- |:---------:|
-| GrandRookie | 0.591156| 
+| GrandRookie | 0.600091 | 
 
 ## Schedule
 
