@@ -44,7 +44,7 @@ Pre-extracted features are derived from over 9,574 movie video trailers. The who
 
 ## Evaluation
 
-AUC (Area Under Curve) will be used as evaluation metric.
+AUC (Area Under Curve) will be used as evaluation metric. See the example of [evaluation code](./evaluation_code.py)
 
 ## Registration
 
