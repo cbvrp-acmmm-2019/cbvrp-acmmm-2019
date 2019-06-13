@@ -74,6 +74,7 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 | --------- |:---------:|
 | ZJGSU | 0.587908 |
 | GrandRookie | 0.574381 |
+| USTC_I_Know_U | 0.523036 |
 
 #### Track 2: Movies
 
@@ -81,6 +82,7 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 | --------- |:---------:|
 | GrandRookie | 0.600091 |
 | ZJGSU | 0.584471 |
+| USTC_I_Know_U | 0.580307 |
 
 ## Schedule
 
