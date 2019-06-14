@@ -74,8 +74,8 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 | --------- |:---------:|
 | ZJGSU | 0.587908 |
 | GrandRookie | 0.574381 |
-| USTC_I_Know_U | 0.523036 |
 | UESTC_cfm | 0.529325 |
+| USTC_I_Know_U | 0.523036 |
 | MAGUS.Embedding is Power | 0.500000 |
 
 #### Track 2: Movies
@@ -83,8 +83,8 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 | Team      | AUC       |
 | --------- |:---------:|
 | GrandRookie | 0.600091 |
+| MAGUS.Embedding is Power | 0.587300 |
 | ZJGSU | 0.584471 |
-| MAGUS.Embedding is Power | 0.584705 |
 | USTC_I_Know_U | 0.580307 |
 
 ## Schedule
