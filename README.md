@@ -73,7 +73,7 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 | Team      | AUC       |
 | --------- |:---------:|
 | ZJGSU | 0.587908 |
-| GrandRookie | 0.574381 |
+| GrandRookie | 0.578959 |
 | UESTC_cfm | 0.529325 |
 | USTC_I_Know_U | 0.523036 |
 | MAGUS.Embedding is Power | 0.500000 |
