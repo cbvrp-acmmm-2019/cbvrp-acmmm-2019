@@ -90,7 +90,7 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 | MAGUS.Embedding is Power | 0.587300 |
 | UESTC_cfm | 0.585820 |
 | Oases | 0.583843 |
-| MIDAS@CBVRP | 0.478966 |
+| MIDAS@CBVRP | 00.533669 |
 
 ## Schedule
 
