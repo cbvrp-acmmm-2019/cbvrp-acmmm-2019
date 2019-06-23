@@ -89,6 +89,7 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 | ZJGSU | 0.588863 |
 | MAGUS.Embedding is Power | 0.587300 |
 | UESTC_cfm | 0.585820 |
+| potato | 0.584926 |
 | Oases | 0.583843 |
 | MIDAS@CBVRP | 0.533669 |
 
