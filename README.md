@@ -81,6 +81,7 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 | UESTC_cfm | 0.529325 |
 | Oases | 0.524569 |
 | MIDAS@CBVRP | 0.518106 |
+| Dragon | 0.515965 |
 | MAGUS.Embedding is Power | 0.500000 |
 
 #### Track 2: Movies
@@ -94,6 +95,7 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 | potato | 0.593027 |
 | UESTC_cfm | 0.585820 |
 | Oases | 0.583843 |
+| Dragon | 0.575499 |
 | Distinc | 0.566727 |
 | MVAP | 0.541332 |
 | MIDAS@CBVRP | 0.533669 |
