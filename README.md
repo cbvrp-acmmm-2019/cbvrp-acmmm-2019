@@ -76,6 +76,7 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 | ZJGSU | 0.599168 |
 | GrandRookie | 0.586481 |
 | USTC_I_Know_U | 0.565589 |
+| MVAP | 0.539995 |
 | Distinc | 0.531248 |
 | UESTC_cfm | 0.529325 |
 | Oases | 0.524569 |
@@ -94,6 +95,7 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 | UESTC_cfm | 0.585820 |
 | Oases | 0.583843 |
 | Distinc | 0.566727 |
+| MVAP | 0.541332 |
 | MIDAS@CBVRP | 0.533669 |
 
 ## Schedule
