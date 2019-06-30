@@ -97,7 +97,7 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 | Oases | 0.583843 |
 | Dragon | 0.575499 |
 | Distinc | 0.573234 |
-| MVAP | 0.541332 |
+| MVAP | 0.548210 |
 | MIDAS@CBVRP | 0.533669 |
 
 ## Schedule
