@@ -73,12 +73,12 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 | Team      | AUC       |
 | --------- |:---------:|
 | potato | 0.650996 |
+| UESTC_cfm | 0.644555 |
+| USTC_I_Know_U | 0.609997 |
 | ZJGSU | 0.599168 |
 | GrandRookie | 0.586481 |
-| USTC_I_Know_U | 0.565589 |
+| Distinc | 0.544910 |
 | MVAP | 0.539995 |
-| Distinc | 0.531248 |
-| UESTC_cfm | 0.529325 |
 | Oases | 0.524569 |
 | MIDAS@CBVRP | 0.518106 |
 | Dragon | 0.515965 |
@@ -96,7 +96,7 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 | UESTC_cfm | 0.585820 |
 | Oases | 0.583843 |
 | Dragon | 0.575499 |
-| Distinc | 0.566727 |
+| Distinc | 0.573234 |
 | MVAP | 0.541332 |
 | MIDAS@CBVRP | 0.533669 |
 
