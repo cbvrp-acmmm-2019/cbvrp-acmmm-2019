@@ -72,8 +72,8 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 
 | Team      | AUC       |
 | --------- |:---------:|
+| UESTC_cfm | 0.651254 |
 | potato | 0.650996 |
-| UESTC_cfm | 0.644555 |
 | USTC_I_Know_U | 0.609997 |
 | ZJGSU | 0.599168 |
 | GrandRookie | 0.591774 |
