@@ -73,8 +73,8 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 | Team      | AUC       |
 | --------- |:---------:|
 | UESTC_cfm | 0.665567 |
+| USTC_I_Know_U | 0.664490 |
 | potato | 0.650996 |
-| USTC_I_Know_U | 0.609997 |
 | ZJGSU | 0.602229 |
 | GrandRookie | 0.591774 |
 | MAGUS.Embedding is Power | 0.575396 |
@@ -89,11 +89,11 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 
 | Team      | AUC       |
 | --------- |:---------:|
+| USTC_I_Know_U | 0.652329 |
 | MAGUS.Embedding is Power | 0.652002 |
+| XRGOGOGO | 0.635891 |
 | ZJGSU | 0.615546 |
-| XRGOGOGO | 0.612909 |
-| GrandRookie | 0.607403 |
-| USTC_I_Know_U | 0.601199 |
+| GrandRookie | 0.612411 |
 | potato | 0.593027 |
 | UESTC_cfm | 0.585820 |
 | Oases | 0.583843 |
