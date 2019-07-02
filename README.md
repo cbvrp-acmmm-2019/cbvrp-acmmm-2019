@@ -91,7 +91,7 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 | --------- |:---------:|
 | USTC_I_Know_U | 0.652329 |
 | MAGUS.Embedding is Power | 0.652002 |
-| XRGOGOGO | 0.635891 |
+| XRGOGOGO | 0.647543 |
 | ZJGSU | 0.615546 |
 | GrandRookie | 0.612411 |
 | potato | 0.593027 |
