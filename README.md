@@ -109,7 +109,7 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 |   Mar. 15, 2019   | Registration open                       |
 |   Apr. 1, 2019    | Release training and validation data    | 
 |   Jun. 1, 2019    | Release test data                       |
-|   Jul. 1, 2019    | Deadline for final result submission    |
+|   Jul. 1, 2019 <br> (11:59 PM, Beijing Time)    | Deadline for final result submission    |
 |   Jul. 8, 2019    | Deadline for paper submission           |
 
 The registration is open until Jul. 1, 2019 (the deadline for final result submission).
