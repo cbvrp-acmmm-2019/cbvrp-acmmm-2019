@@ -70,37 +70,37 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 
 #### Track 1: TV Series
 
-| Team      | AUC       |
-| --------- |:---------:|
-| UESTC_cfm | 0.665567 |
-| USTC_I_Know_U | 0.664490 |
-| potato | 0.650996 |
-| ZJGSU | 0.602229 |
-| GrandRookie | 0.591774 |
-| MAGUS.Embedding is Power | 0.575396 |
-| Distinc | 0.544910 |
-| MVAP | 0.539995 |
-| Oases | 0.524569 |
-| MIDAS@CBVRP | 0.518106 |
-| Dragon | 0.515965 |
-| XRGOGOGO | 0.500000 |
+| Rank | Team      | AUC       |
+| :--: | --------- |:---------:|
+| 1    | UESTC_cfm | 0.665567 |
+| 2    | USTC_I_Know_U | 0.664490 |
+| 3    | potato | 0.650996 |
+| 4    | ZJGSU | 0.602229 |
+| 5    | GrandRookie | 0.591774 |
+| 6    | MAGUS.Embedding is Power | 0.575396 |
+| 7    | Distinc | 0.544910 |
+| 8    | MVAP | 0.539995 |
+| 9   | Oases | 0.524569 |
+| 10   | MIDAS@CBVRP | 0.518106 |
+| 11   | Dragon | 0.515965 |
+| 12   | XRGOGOGO | 0.500000 |
 
 #### Track 2: Movies
 
-| Team      | AUC       |
-| --------- |:---------:|
-| USTC_I_Know_U | 0.652329 |
-| MAGUS.Embedding is Power | 0.652002 |
-| XRGOGOGO | 0.647543 |
-| ZJGSU | 0.615546 |
-| GrandRookie | 0.612411 |
-| potato | 0.593027 |
-| UESTC_cfm | 0.585820 |
-| Oases | 0.583843 |
-| Dragon | 0.575499 |
-| Distinc | 0.573234 |
-| MVAP | 0.548210 |
-| MIDAS@CBVRP | 0.533669 |
+| Rank | Team      | AUC       |
+| :--: | --------- |:---------:|
+| 1    | USTC_I_Know_U | 0.652329 |
+| 2    | MAGUS.Embedding is Power | 0.652002 |
+| 3    | XRGOGOGO | 0.647543 |
+| 4    | ZJGSU | 0.615546 |
+| 5    | GrandRookie | 0.612411 |
+| 6    | potato | 0.593027 |
+| 7    | UESTC_cfm | 0.585820 |
+| 8    | Oases | 0.583843 |
+| 9    | Dragon | 0.575499 |
+| 10   | Distinc | 0.573234 |
+| 11   | MVAP | 0.548210 |
+| 12   | MIDAS@CBVRP | 0.533669 |
 
 ## Schedule
 
@@ -109,7 +109,7 @@ The participants should send the results to cbvrp-acmmm-2019@hulu.com. After rec
 |   Mar. 15, 2019   | Registration open                       |
 |   Apr. 1, 2019    | Release training and validation data    | 
 |   Jun. 1, 2019    | Release test data                       |
-|   Jul. 1, 2019 <br> (11:59 PM, Beijing Time)    | Deadline for final result submission    |
+|   Jul. 1, 2019    | Deadline for final result submission    |
 |   Jul. 8, 2019    | Deadline for paper submission           |
 
 The registration is open until Jul. 1, 2019 (the deadline for final result submission).
