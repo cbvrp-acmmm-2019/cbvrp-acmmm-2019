@@ -48,7 +48,7 @@ AUC (Area Under Curve) will be used as evaluation metric. See the example of [ev
 
 ## Registration
 
-To register for the challenge and get access to the dataset, please complete the [Online Agreement Form](https://freeonlinesurveys.com/s/DjOillyA). We will send you the download instructions by email after the challenge data available date (Apr. 1, 2019).
+To register for the challenge and get access to the dataset, please complete the [Online Agreement Form](https://freeonlinesurveys.com/s/DjOillyA). We will send you the download instructions by email after the challenge data available date (Apr. 1, 2019). The registration is closed now. To access the challenge data, please contact us directly via cbvrp-acmmm-2019@hulu.com.
 
 ## Submission
 
